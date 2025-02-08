@@ -8,7 +8,7 @@ import Service from './components/section/Service'
 import Project from './components/section/Project';
 import Footer from './components/section/Footer';
 import LoadingScreen from './components/LoadingScreen';
-import myProfile from './assets/profile.jpg'
+import myProfile from '../src/assets/profile.jpg'
 
 function App() {
   const [isLoading, setLoading] = useState(true);

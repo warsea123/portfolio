@@ -54,7 +54,7 @@ function Home({ handleType, myProfile }) {
           className="w-72 h-72 object-cover rounded-full shadow-lg transform hover:scale-105 transition-transform duration-500"
         />
       </div>
-
+  
       {/* Right Side: Text */}
       <div className="w-full md:w-1/2 mt-8 md:mt-0 md:pl-12 text-center md:text-left">
         <h1 className="text-[2rem] uppercase font-bold text-gray-900 dark:text-white mb-4">
