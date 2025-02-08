@@ -52,7 +52,7 @@ const Footer = () => {
               transition={{ duration: 0.5, delay: 0.2 }}
             >
               <FaEnvelope className="text-[1.5rem] text-yellow-500 animate-bounce" />
-              <span className="text-lg font-medium text-gray-700 dark:text-gray-400">jammelbrona@gmail.com</span>
+              <span className="text-lg font-medium text-gray-700 dark:text-gray-400 ">jammelbrona@gmail.com</span>
             </motion.div>
           </div>
 
